@@ -1,6 +1,7 @@
 {
   "booking-details": [
     {
+      "id": 1,
       "invoice_details.tax_id": "String",
       "invoice_details.invoice_details.legal_entity_name": "String",
       "invoice_details.address": "String",
@@ -30,6 +31,7 @@
       "currency": "String"
     },
     {
+      "id": 2,
       "invoice_details.tax_id": "String",
       "invoice_details.invoice_details.legal_entity_name": "String",
       "invoice_details.address": "String",
@@ -59,6 +61,7 @@
       "currency": "String"
     },
     {
+      "id": 3,
       "invoice_details.tax_id": "String",
       "invoice_details.invoice_details.legal_entity_name": "String",
       "invoice_details.address": "String",
