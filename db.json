@@ -1,8 +1,91 @@
 {
-  "posts": [
+  "booking-details": [
     {
-      "id": 1,
-      "title": "hello"
+      "invoice_details.tax_id": "String",
+      "invoice_details.invoice_details.legal_entity_name": "String",
+      "invoice_details.address": "String",
+      "invoice_details.postcode": "String",
+      "invoice_details.city": "String",
+      "invoice_details.country": "String",
+      "hotel_id": "Int",
+      "hotel_email": "String",
+      "hotel_name": "String",
+      "hotel_address": "String",
+      "hotel_zipcode": "String",
+      "hotel_phone": "String",
+      "hotel_coordinates": {
+        "Longitude": "double",
+        "Latitude": "double"
+      },
+      "hotel_countrycode": "String",
+      "destination_name": "String",
+      "reservation_id": "Int",
+      "created": "yyyy-mm-dd hh:mm:ss",
+      "guest_name": "String",
+      "booker_email": "String",
+      "checkin": "yyyy-mm-dd",
+      "checkout": "yyyy-mm-dd",
+      "price_local": "Double",
+      "company": "String",
+      "currency": "String"
+    },
+    {
+      "invoice_details.tax_id": "String",
+      "invoice_details.invoice_details.legal_entity_name": "String",
+      "invoice_details.address": "String",
+      "invoice_details.postcode": "String",
+      "invoice_details.city": "String",
+      "invoice_details.country": "String",
+      "hotel_id": "Int",
+      "hotel_email": "String",
+      "hotel_name": "String",
+      "hotel_address": "String",
+      "hotel_zipcode": "String",
+      "hotel_phone": "String",
+      "hotel_coordinates": {
+        "Longitude": "double",
+        "Latitude": "double"
+      },
+      "hotel_countrycode": "String",
+      "destination_name": "String",
+      "reservation_id": "Int",
+      "created": "yyyy-mm-dd hh:mm:ss",
+      "guest_name": "String",
+      "booker_email": "String",
+      "checkin": "yyyy-mm-dd",
+      "checkout": "yyyy-mm-dd",
+      "price_local": "Double",
+      "company": "String",
+      "currency": "String"
+    },
+    {
+      "invoice_details.tax_id": "String",
+      "invoice_details.invoice_details.legal_entity_name": "String",
+      "invoice_details.address": "String",
+      "invoice_details.postcode": "String",
+      "invoice_details.city": "String",
+      "invoice_details.country": "String",
+      "hotel_id": "Int",
+      "hotel_email": "String",
+      "hotel_name": "String",
+      "hotel_address": "String",
+      "hotel_zipcode": "String",
+      "hotel_phone": "String",
+      "hotel_coordinates": {
+        "Longitude": "double",
+        "Latitude": "double"
+      },
+      "hotel_countrycode": "String",
+      "destination_name": "String",
+      "reservation_id": "Int",
+      "created": "yyyy-mm-dd hh:mm:ss",
+      "guest_name": "String",
+      "booker_email": "String",
+      "checkin": "yyyy-mm-dd",
+      "checkout": "yyyy-mm-dd",
+      "price_local": "Double",
+      "company": "String",
+      "currency": "String"
     }
   ],
   "profile": {
